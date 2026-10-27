@@ -21,4 +21,4 @@ My open-source work focuses on **agent reliability and infrastructure** — the 
 ## Currently
 AI Engineer @ **Orderly Wellness Corp** (remote) · MS Data Science, University at Buffalo '25 (3.93)
 
-📫 ruthvikbathala2@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruthvik-b-1b851b190)
+🌐 [Portfolio](https://ruthvikbathala.github.io/RuthvikBathala/) · 📫 ruthvikbathala2@gmail.com · [LinkedIn](https://www.linkedin.com/in/ruthvik-b-1b851b190)
